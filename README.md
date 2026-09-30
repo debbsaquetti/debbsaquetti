@@ -10,7 +10,7 @@
 
 ###
 
-<p data-importer="text" align="left">e📚 I'm currently studying computer science</p>
+<p data-importer="text" align="left"> 📚 I'm currently studying computer science</p>
 
 ###
 
